@@ -1,52 +1,5 @@
-rootUrl: http://127.0.0.1:3000
+rootUrl: http://svx.aero/
 gridUrl: http://127.0.0.1:4444/wd/hub
-
-browsers:
-#  ChromeIPhone5:
-#    desiredCapabilities:
-#      browserName: phantomjs
-#      chromeOptions:
-#        mobileEmulation:
-#          userAgent: Mozilla/5.0 (iPhone; CPU iPhone OS 8_0 like Mac OS X) AppleWebKit/600.1.3 (KHTML, like Gecko) Version/8.0 Mobile/12A4345d Safari/600.1.4
-#          deviceMetrics:
-#            width: 320,
-#            height: 568,
-#            pixelRatio: 2
-
-#  ChromeIPadHorizontal:
-#    desiredCapabilities:
-#      browserName: phantomjs
-#      chromeOptions:
-#        mobileEmulation:
-#          userAgent: Mozilla/5.0 (iPad; CPU iPad OS 8_0 like Mac OS X) AppleWebKit/600.1.3 (KHTML, like Gecko) Version/8.0 Mobile/12A4345d Safari/600.1.4
-#          deviceMetrics:
-#            width: 1024,
-#            height: 768,
-#            pixelRatio: 2
-
-  ChromeIPhone5:
-    desiredCapabilities:
-      browserName: chrome
-      deviceName: iPhone 5
-
-  ChromeIPadVertical:
-    desiredCapabilities:
-      browserName: chrome
-      orientation: portrait
-      deviceName: iPad
-
-  ChromeIPadHorizontal:
-    desiredCapabilities:
-      browserName: chrome
-      orientation: landscape
-      deviceName: iPad
-
-  ChromeDesktop:
-    windowSize: 1440x900
-    desiredCapabilities:
-      browserName: chrome
-      resolution: 1440x900
-      acceptSslCerts: true
 
   ChromeFullHD:
     windowSize: 1920x1080
@@ -66,4 +19,3 @@ system:
       enabled: true
       path: reports/report.json
 
-windowSize: 1440x900

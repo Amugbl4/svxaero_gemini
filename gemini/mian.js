@@ -1,6 +1,6 @@
 gemini.suite('body', function (suite) {
     suite
-        .setUrl('/sinara.frontend/dist/locomotive.html')
+        .setUrl('/')
         .setCaptureElements('body')
         .capture('plain', function (actions) {
             actions.wait(3000);
