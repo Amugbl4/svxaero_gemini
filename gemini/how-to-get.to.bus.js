@@ -1,6 +1,6 @@
-gemini.suite('main', function (suite) {
+gemini.suite('how-to-get/to/bus', function (suite) {
     suite
-        .setUrl('/')
+        .setUrl('/how-to-get/to/bus')
         //.setCaptureElements('.i-close.i-close--w.js-cookies-message__close')
         .setCaptureElements('.i-close.i-close--w.js-alert-close')
         .before(function (actions, find) {
@@ -13,7 +13,7 @@ gemini.suite('main', function (suite) {
         .capture('.bx-core', function (actions) {
             actions.wait(3000);
             actions.executeJS(function (window) {
-                window.scrollTo(0, 2272);
+                window.scrollTo(0, 6000);
             })
         });
 });

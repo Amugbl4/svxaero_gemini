@@ -1,6 +1,8 @@
 rootUrl: http://svx.aero/
 gridUrl: http://127.0.0.1:4444/wd/hub
 
+browsers:
+
   ChromeFullHD:
     windowSize: 1920x1080
     desiredCapabilities:
@@ -19,3 +21,4 @@ system:
       enabled: true
       path: reports/report.json
 
+compositeImage: true
