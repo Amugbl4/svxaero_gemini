@@ -1,4 +1,4 @@
-rootUrl: http://svx.aero/
+rootUrl: http://rovaero:rovaero@rov.region.aero/
 gridUrl: http://127.0.0.1:4444/wd/hub
 
 sets:
@@ -8,7 +8,7 @@ sets:
   board:
     files:
       - gemini/board.js
-      
+
 browsers:
 
   ChromeFullHD:

@@ -3,7 +3,7 @@ gemini.suite('scheme', function (suite) {
         .setUrl('/scheme')
         .before(function (actions, find) {
             var button = find('.i-close.i-close--w.js-cookies-message__close');
-            console.log('моя кнопка', button)
+            console.log('моя кнопка', !!button)
             if (button) {
                 actions.click(button);
             }
