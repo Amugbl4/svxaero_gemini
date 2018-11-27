@@ -4,43 +4,9 @@
     "suiteFullName": "board",
     "browserId": "ChromeFullHD",
     "file": "gemini\\board.js",
-    "referencePath": null,
+    "referencePath": "gemini\\screens\\board\\.bx-core\\ChromeFullHD.png",
     "url": "/board",
-    "status": "error",
-    "errorReason": "NoRefImageError: Can not find reference image at C:\\Myprojects\\gemini-test\\gemini-aero\\gemini\\screens\\board\\.bx-core\\ChromeFullHD.png.\nRun `gemini update` command to capture all reference images.\n    at Object.exports.fromPlainObject.e [as fromPlainObject] (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\gemini\\lib\\errors\\utils.js:10:16)\n    at Promise.fromCallback.catch.err (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\gemini\\lib\\state-processor\\state-processor.js:41:53)\n    at tryCatcher (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\util.js:16:23)\n    at Promise._settlePromiseFromHandler (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\promise.js:512:31)\n    at Promise._settlePromise (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\promise.js:569:18)\n    at Promise._settlePromise0 (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\promise.js:614:10)\n    at Promise._settlePromises (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\promise.js:690:18)\n    at _drainQueueStep (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\async.js:138:12)\n    at _drainQueue (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\async.js:131:9)\n    at Async._drainQueues (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\async.js:147:5)\n    at Immediate.Async.drainQueues [as _onImmediate] (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\async.js:17:14)\n    at runCallback (timers.js:705:18)\n    at tryOnImmediate (timers.js:676:5)\n    at processImmediate (timers.js:658:5)",
-    "duration": 9381
-  },
-  "how-to-get/to/bus .bx-core.ChromeFullHD": {
-    "fullName": "how-to-get/to/bus .bx-core",
-    "suiteFullName": "how-to-get/to/bus",
-    "browserId": "ChromeFullHD",
-    "file": "gemini\\how-to-get.to.bus.js",
-    "referencePath": null,
-    "url": "/how-to-get/to/bus",
-    "status": "error",
-    "errorReason": "NoRefImageError: Can not find reference image at C:\\Myprojects\\gemini-test\\gemini-aero\\gemini\\screens\\how-to-get\\to\\bus\\.bx-core\\ChromeFullHD.png.\nRun `gemini update` command to capture all reference images.\n    at Object.exports.fromPlainObject.e [as fromPlainObject] (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\gemini\\lib\\errors\\utils.js:10:16)\n    at Promise.fromCallback.catch.err (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\gemini\\lib\\state-processor\\state-processor.js:41:53)\n    at tryCatcher (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\util.js:16:23)\n    at Promise._settlePromiseFromHandler (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\promise.js:512:31)\n    at Promise._settlePromise (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\promise.js:569:18)\n    at Promise._settlePromise0 (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\promise.js:614:10)\n    at Promise._settlePromises (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\promise.js:690:18)\n    at _drainQueueStep (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\async.js:138:12)\n    at _drainQueue (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\async.js:131:9)\n    at Async._drainQueues (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\async.js:147:5)\n    at Immediate.Async.drainQueues [as _onImmediate] (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\async.js:17:14)\n    at runCallback (timers.js:705:18)\n    at tryOnImmediate (timers.js:676:5)\n    at processImmediate (timers.js:658:5)",
-    "duration": 6144
-  },
-  "how-to-get/to .bx-core.ChromeFullHD": {
-    "fullName": "how-to-get/to .bx-core",
-    "suiteFullName": "how-to-get/to",
-    "browserId": "ChromeFullHD",
-    "file": "gemini\\how-to-get.to.js",
-    "referencePath": null,
-    "url": "/how-to-get/to",
-    "status": "error",
-    "errorReason": "NoRefImageError: Can not find reference image at C:\\Myprojects\\gemini-test\\gemini-aero\\gemini\\screens\\how-to-get\\to\\.bx-core\\ChromeFullHD.png.\nRun `gemini update` command to capture all reference images.\n    at Object.exports.fromPlainObject.e [as fromPlainObject] (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\gemini\\lib\\errors\\utils.js:10:16)\n    at Promise.fromCallback.catch.err (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\gemini\\lib\\state-processor\\state-processor.js:41:53)\n    at tryCatcher (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\util.js:16:23)\n    at Promise._settlePromiseFromHandler (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\promise.js:512:31)\n    at Promise._settlePromise (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\promise.js:569:18)\n    at Promise._settlePromise0 (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\promise.js:614:10)\n    at Promise._settlePromises (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\promise.js:690:18)\n    at _drainQueueStep (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\async.js:138:12)\n    at _drainQueue (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\async.js:131:9)\n    at Async._drainQueues (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\async.js:147:5)\n    at Immediate.Async.drainQueues [as _onImmediate] (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\async.js:17:14)\n    at runCallback (timers.js:705:18)\n    at tryOnImmediate (timers.js:676:5)\n    at processImmediate (timers.js:658:5)",
-    "duration": 6089
-  },
-  "main .bx-core.ChromeFullHD": {
-    "fullName": "main .bx-core",
-    "suiteFullName": "main",
-    "browserId": "ChromeFullHD",
-    "file": "gemini\\mian.js",
-    "referencePath": null,
-    "url": "/",
-    "status": "error",
-    "errorReason": "NoRefImageError: Can not find reference image at C:\\Myprojects\\gemini-test\\gemini-aero\\gemini\\screens\\main\\.bx-core\\ChromeFullHD.png.\nRun `gemini update` command to capture all reference images.\n    at Object.exports.fromPlainObject.e [as fromPlainObject] (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\gemini\\lib\\errors\\utils.js:10:16)\n    at Promise.fromCallback.catch.err (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\gemini\\lib\\state-processor\\state-processor.js:41:53)\n    at tryCatcher (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\util.js:16:23)\n    at Promise._settlePromiseFromHandler (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\promise.js:512:31)\n    at Promise._settlePromise (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\promise.js:569:18)\n    at Promise._settlePromise0 (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\promise.js:614:10)\n    at Promise._settlePromises (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\promise.js:690:18)\n    at _drainQueueStep (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\async.js:138:12)\n    at _drainQueue (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\async.js:131:9)\n    at Async._drainQueues (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\async.js:147:5)\n    at Immediate.Async.drainQueues [as _onImmediate] (C:\\Myprojects\\gemini-test\\gemini-aero\\node_modules\\bluebird\\js\\release\\async.js:17:14)\n    at runCallback (timers.js:705:18)\n    at tryOnImmediate (timers.js:676:5)\n    at processImmediate (timers.js:658:5)",
-    "duration": 6286
+    "status": "fail",
+    "duration": 11003
   }
 }

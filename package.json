@@ -10,11 +10,13 @@
   "scripts": {
     "test": "npx gemini test",
     "start": "npx npm-run-all --parallel selenium:start gemini:gui",
+    "start:single": "npx npm-run-all --parallel selenium:start gemini:gui:single",
     "prestart": "npm install",
     "preselenium:start": "selenium-standalone install",
     "selenium:start": "selenium-standalone start",
     "gemini": "gemini test",
     "gemini:gui": "gemini gui",
+    "gemini:gui:single": "gemini gui --set board",
     "gemini:update": "gemini update"
   },
   "keywords": [],
