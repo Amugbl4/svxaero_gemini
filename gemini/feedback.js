@@ -2,6 +2,7 @@ gemini.suite('feedback', function (suite) {
     suite
         .setUrl('/feedback')
         .before(function (actions, find) {
+            //actions.sendFile(input[type=file], 'gemini-aero/1.png')
             var button = find('.i-close.i-close--w.js-cookies-message__close');
             console.log('моя кнопка', button)
             if (button) {
