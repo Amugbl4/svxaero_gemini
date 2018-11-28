@@ -1,10 +1,9 @@
-gemini.suite('main', function (suite) {
+gemini.suite('board', function (suite) {
     suite
-        .setUrl('/')
-        .ignoreElemets('.intro-page__airplane', 'bg-blue.d-none.d-sm-block.pb-sm-2')
+        .setUrl('/partners/operators/')
         .before(function (actions, find) {
             var button = find('.i-close.i-close--w.js-cookies-message__close');
-            console.log('моя кнопка', button)
+            console.log('моя кнопка', !!button)
             if (button) {
                 actions.click(button);
             }
@@ -13,7 +12,7 @@ gemini.suite('main', function (suite) {
         .capture('.bx-core', function (actions) {
             actions.wait(3000);
             actions.executeJS(function (window) {
-                window.scrollTo(0, 6000);
+                window.scrollTo(0, 7000);
             })
         });
 });

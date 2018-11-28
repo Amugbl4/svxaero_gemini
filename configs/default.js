@@ -4,7 +4,7 @@ module.exports = {
     sets:
     {
         all: { files: ['gemini'] },
-        board: { files: ['gemini/board.js'] }
+        board: { files: ['gemini/feedback.js'] }
     },
     browsers:
     {

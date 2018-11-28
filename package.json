@@ -17,6 +17,7 @@
     "gemini": "gemini test",
     "gemini:gui": "gemini gui",
     "gemini:gui:single": "gemini gui --set board",
+    "gemini:rov": "gemini gui --set board -c configs/rov.aero.config.js",
     "gemini:update": "gemini update"
   },
   "keywords": [],

@@ -9,6 +9,7 @@ gemini.suite('feedback', function (suite) {
             }
         })
         .setCaptureElements('.bx-core')
+        .ignoreElements('.box-captcha')
         .capture('.bx-core', function (actions) {
             actions.wait(3000);
             actions.executeJS(function (window) {
