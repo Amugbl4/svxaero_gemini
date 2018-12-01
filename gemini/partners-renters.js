@@ -1,4 +1,4 @@
-gemini.suite('board', function (suite) {
+gemini.suite('partners/renters', function (suite) {
     suite
         .setUrl('/partners/renters/')
         .before(function (actions, find) {

@@ -1,6 +1,7 @@
 module.exports = {
     rootUrl: 'http://svx.aero/',
     gridUrl: 'http://127.0.0.1:4444/wd/hub',
+    sessionsPerBrowser: 5,
     sets:
     {
         all: { files: ['gemini'] },
